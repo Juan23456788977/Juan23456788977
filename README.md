@@ -1,126 +1,123 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Hola%2C+soy+Juan+Cortez+%F0%9F%91%8B;Desarrollador+Full-Stack+%7C+18+años;Construyo+SaaS%2C+bots+y+sistemas+de+IA;Caracas%2C+Venezuela+%F0%9F%87%BB%F0%9F%87%AA" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=Hola%2C+soy+Juan+Cortez+%F0%9F%91%8B+%2F+Hey%2C+I'm+Juan+Cortez;Desarrollador+Full-Stack+%2F+Full-Stack+Developer;18+años+%7C+Caracas%2C+Venezuela+%F0%9F%87%BB%F0%9F%87%AA;Construyo+SaaS%2C+IA+y+bots+%2F+I+build+SaaS%2C+AI+%26+bots" alt="Typing SVG" />
 
 <br/>
 
-[![Email](https://img.shields.io/badge/cortezurreajuanalberto%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cortezurreajuanalberto@gmail.com)
-[![Portafolio](https://img.shields.io/badge/Ver_Portafolio_Completo-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juan23456788977/Portafolio)
+[![Email](https://img.shields.io/badge/Email-cortezurreajuanalberto%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cortezurreajuanalberto@gmail.com)
+[![Portafolio](https://img.shields.io/badge/Portafolio_Completo-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juan23456788977/Portafolio)
 
 </div>
 
 ---
 
-## 👨‍💻 Sobre mí
+## 👨‍💻 Sobre mí / About Me
 
-Soy desarrollador Full-Stack venezolano, 18 años. Trabajo simultáneamente como **pasante de desarrollo y QA en Akdemia** (plataforma EdTech con 500+ colegios activos) y como **desarrollador freelance de bots de trading algorítmico** para clientes con capital en mercados de criptomonedas.
+> 🇪🇸 Desarrollador Full-Stack venezolano, 18 años. Trabajo como **pasante de desarrollo y QA en Akdemia** (plataforma EdTech con 500+ colegios) y como **freelance** construyendo bots de trading algorítmico con capital real en mercados crypto. No aprendo tecnologías para hacer tutoriales — las aprendo porque tengo un problema real que resolver.
 
-No aprendo tecnologías para hacer tutoriales. Las aprendo porque tengo un problema real que resolver.
+> 🌐 Venezuelan Full-Stack Developer, 18 y/o. Working as **development & QA intern at Akdemia** (EdTech platform, 500+ schools) and as a **freelance** algorithmic trading bot developer with real capital in crypto markets. I don't learn technologies to build tutorials — I learn them because I have a real problem to solve.
 
 ---
 
-## 🚀 Proyectos Principales
+## 🚀 Proyectos / Projects
 
-### 🧠 Cortan v2.0 — SaaS Multi-tenant con IA
-> *Mi proyecto más ambicioso. En desarrollo activo.*
+---
 
-Plataforma SaaS corporativa multi-tenant construida desde cero. Cada "tenant" (taller/empresa) tiene su propio espacio aislado mediante **Row Level Security en Supabase**, con un sistema de roles granular (`pasante`, `moderador`, `admin`, `system-agent`).
+### 🧠 Cortan v2.0 — SaaS Multi-tenant con IA / AI Multi-tenant SaaS
 
-El módulo más complejo es el **God-Mode System**: un rol `system-agent` con permisos de bypass total que permite a los agentes de IA ejecutar flujos de trabajo sin restricciones de RLS, manteniendo trazabilidad completa en logs de auditoría.
+> 🇪🇸 Plataforma SaaS corporativa multi-tenant. Cada tenant tiene aislamiento total vía **Row Level Security en Supabase**. El módulo `system-agent` es un rol de bypass total que permite a los agentes de IA ejecutar flujos de trabajo sin restricciones, con trazabilidad en logs de auditoría. Integra **pgvector** para memoria semántica persistente en los agentes.
 
-Integra **pgvector** para sincronización offline de embeddings vectoriales — los agentes tienen memoria semántica persistente aunque el LLM no la tenga nativamente.
+> 🌐 Enterprise multi-tenant SaaS. Each tenant is fully isolated via **Supabase Row Level Security**. The `system-agent` module is a full-bypass role enabling AI agents to execute workflows without restrictions, with full audit log traceability. Uses **pgvector** for persistent semantic memory across agents.
 
-**Stack real:** Next.js 16 (App Router) · React 19 · Supabase (PostgreSQL + pgvector) · Firebase (Auth + Firestore) · Stripe Webhooks · WebAuthn (SimpleWebAuthn) · Twilio Voice · WhatsApp (Baileys) · Gemini AI SDK · Ollama (qwen2.5-coder) · Three.js + React Three Fiber · Playwright · Docker
+**Stack:** `Next.js 16` `React 19` `Supabase + pgvector` `Firebase` `Stripe` `WebAuthn` `Twilio` `WhatsApp` `Gemini AI` `Ollama` `Three.js` `Playwright` `Docker`
 
-[![Showcase](https://img.shields.io/badge/Ver_Showcase_(código_privado)-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juan23456788977/cortan-showcase)
+[![Showcase](https://img.shields.io/badge/Ver_Showcase_/_View_Showcase_(código_privado)-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juan23456788977/cortan-showcase)
 
 ---
 
 ### 🛒 VECommerce — E-commerce Venezuela-first
-> *Monorepo producción-ready.*
 
-Plataforma de comercio electrónico diseñada para el mercado venezolano. Arquitectura monorepo con backend en **FastAPI** (Python) y frontend en **Next.js TypeScript**.
+> 🇪🇸 Monorepo producción-ready con backend en **FastAPI** y frontend en **Next.js TypeScript**. Autenticación con **JWT + bcrypt**, migraciones versionadas con **Alembic**, caché de sesiones en **Redis**, almacenamiento S3-compatible con **MinIO**, y pagos con **Stripe Webhooks**.
 
-El backend maneja autenticación con **JWT + bcrypt** (`python-jose` + `passlib`), gestiona el esquema de base de datos con **Alembic** para migraciones versionadas, y usa **Redis** para caché de sesiones. **MinIO** actúa como storage S3-compatible para imágenes de productos. El flujo de pagos corre sobre **Stripe Webhooks**.
+> 🌐 Production-ready monorepo with a **FastAPI** backend and **Next.js TypeScript** frontend. **JWT + bcrypt** auth, versioned migrations with **Alembic**, **Redis** session caching, **MinIO** S3-compatible storage, and **Stripe Webhooks** payment flow.
 
-**Stack real:** FastAPI 0.115 · Uvicorn · SQLAlchemy 2.0 · PostgreSQL · Alembic · Redis · MinIO · Stripe · Next.js · TypeScript · Tailwind · Docker Compose · Pydantic Settings
+**Stack:** `FastAPI` `Python` `Next.js` `TypeScript` `PostgreSQL` `SQLAlchemy` `Alembic` `Redis` `MinIO` `Stripe` `Docker Compose`
 
-[![Showcase](https://img.shields.io/badge/Ver_Showcase_(código_privado)-F59E0B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juan23456788977/vecommerce-showcase)
-
----
-
-### 🤖 AI Email Assistant — Clasificador + Respuesta Automática
-> *Automatización real aplicada al soporte al cliente.*
-
-Sistema full-stack que automatiza el soporte por correo electrónico. El flujo es: leer email entrante → clasificar prioridad con un **modelo entrenado con scikit-learn** → generar respuesta contextual con **OpenAI GPT** → enviar respuesta automática.
-
-El clasificador es un modelo de ML propio entrenado sobre datos reales de soporte, no un prompt engineering genérico. Los servicios `classifier.py` y `llm_response.py` están desacoplados intencionalmente para poder reemplazar el LLM sin tocar la lógica de clasificación.
-
-**Stack real:** FastAPI · Python · OpenAI API · scikit-learn · Docker Compose · Arquitectura de microservicios
-
-[![Showcase](https://img.shields.io/badge/Ver_Showcase_(código_privado)-10B981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juan23456788977/ai-email-assistant)
+[![Showcase](https://img.shields.io/badge/Ver_Showcase_/_View_Showcase_(código_privado)-F59E0B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juan23456788977/vecommerce-showcase)
 
 ---
 
-### 🎓 PasantConnect — Sistema de Gestión de Pasantías
-> *Proyecto de tesis de grado. Código 100% público.*
+### 🤖 AI Email Assistant — Clasificador ML + Respuesta Automática / ML Classifier + Auto-Response
 
-Sistema web completo desarrollado como tesis para el **I.T.A.T. (Instituto Técnico de Telemática)**. Gestiona el ciclo completo de pasantías: registro de pasantes/empresas/supervisores, asignación, control de horas, sistema de chat entre pasante y supervisor, subida de fotos de perfil, dark mode, y panel de administración completo.
+> 🇪🇸 Sistema que lee emails entrantes, los clasifica por prioridad con un **modelo entrenado con scikit-learn**, y genera respuestas con **OpenAI GPT**. Los servicios `classifier.py` y `llm_response.py` están desacoplados para poder reemplazar el LLM sin tocar la lógica de clasificación.
 
-Las contraseñas se hashean con **bcrypt** (`password_hash` de PHP con algoritmo `$2y$10$`). El sistema de roles funciona con `enum` en MySQL (`pasante`, `moderador`, `admin`) validado en cada endpoint PHP antes de ejecutar cualquier operación.
+> 🌐 System that reads incoming emails, classifies them by priority using a **trained scikit-learn model**, and generates responses via **OpenAI GPT**. `classifier.py` and `llm_response.py` are decoupled so the LLM can be swapped without touching the classification logic.
 
-**Stack real:** PHP 7.3 · MySQL / MariaDB · HTML5 · CSS3 · Vanilla JavaScript (ES6+) · AJAX · bcrypt · Sessions · XAMPP
+**Stack:** `FastAPI` `Python` `OpenAI API` `scikit-learn` `Docker Compose`
 
-[![Código](https://img.shields.io/badge/Ver_Código_Completo-3ECF8E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juan23456788977/PasantConnect)
-
----
-
-### 📈 Bots de Trading Algorítmico
-> *Freelance — clientes con capital real en mercados crypto.*
-
-Bots de grid trading para pares volátiles (SOL/USDT, BNB/USDT). Conectan a Binance vía **WebSockets** para recibir el order book en tiempo real sin polling. La lógica de grid calcula automáticamente los niveles de entrada/salida según el rango de volatilidad del par y ajusta el tamaño de posición al capital disponible.
-
-El sistema incluye gestión de riesgo: stop-loss automático si el precio sale del rango configurado, y alertas por Telegram cuando se ejecuta una orden.
-
-**Stack real:** Python · Binance API (REST + WebSockets) · Telegram Bot API · asyncio
-
-*🔒 Código privado por acuerdo con clientes.*
+[![Showcase](https://img.shields.io/badge/Ver_Showcase_/_View_Showcase_(código_privado)-10B981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juan23456788977/ai-email-assistant)
 
 ---
 
-## 🛠️ Stack Técnico
+### 🎓 PasantConnect — Sistema de Pasantías / Internship Management System
 
-```
-Frontend ────── Next.js · React 19 · TypeScript · Tailwind · Framer Motion · Three.js
-Backend  ────── FastAPI · Node.js · PHP · Python · Express
-Bases de datos ─ Supabase (pgvector) · Firebase · PostgreSQL · Redis · MySQL · MariaDB
-IA & ML ──────── Gemini AI · OpenAI · scikit-learn · Ollama · Agentes Autónomos
-Pagos ────────── Stripe (Checkout + Webhooks)
-Comunicaciones ─ Twilio Voice · WhatsApp (Baileys) · Resend · Nodemailer · Telegram API
-Auth ─────────── Firebase Auth · JWT · WebAuthn (biométrico) · bcrypt · Sessions
-DevOps ───────── Docker · Docker Compose · Vercel · Firebase Hosting
-Testing ──────── Playwright (E2E) · Vitest (Unit) · Testing Library
-```
+> 🇪🇸 Proyecto de tesis de grado para el I.T.A.T. Sistema completo: registro de pasantes/empresas/supervisores, control de horas, chat en tiempo real, subida de fotos, dark mode y panel admin. Contraseñas con **bcrypt** (`$2y$10$`), roles via `enum` en MySQL validados en cada endpoint.
+
+> 🌐 Graduation thesis for I.T.A.T. Full system: intern/company/supervisor management, hour tracking, real-time chat, photo uploads, dark mode, and admin panel. Passwords hashed with **bcrypt** (`$2y$10$`), roles enforced via MySQL `enum` validated at every endpoint.
+
+**Stack:** `PHP 7.3` `MySQL` `Vanilla JavaScript ES6+` `CSS3` `bcrypt` `AJAX` `Sessions`
+
+[![Código / Code](https://img.shields.io/badge/Ver_Código_/_View_Code_(público)-3ECF8E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juan23456788977/PasantConnect)
 
 ---
 
-## 📊 Estadísticas
+### 📈 Bots de Trading Algorítmico / Algorithmic Trading Bots
+
+> 🇪🇸 Bots de grid trading para pares volátiles (SOL/USDT, BNB/USDT). Conexión a Binance vía **WebSockets** para order book en tiempo real sin polling. Lógica de grid con niveles automáticos según volatilidad, stop-loss automático y alertas por Telegram.
+
+> 🌐 Grid trading bots for volatile pairs (SOL/USDT, BNB/USDT). Connected to Binance via **WebSockets** for real-time order book without polling. Auto grid levels based on volatility, automatic stop-loss, and Telegram alerts on execution.
+
+**Stack:** `Python` `Binance API` `WebSockets` `asyncio` `Telegram Bot API`
+
+*🔒 Código privado por acuerdo con clientes / Private by client agreement*
+
+---
+
+## 🛠️ Stack Técnico / Tech Stack
+
+| Área / Area | Tecnologías / Technologies |
+|-------------|---------------------------|
+| **Frontend** | Next.js · React 19 · TypeScript · Tailwind · Framer Motion · Three.js |
+| **Backend** | FastAPI · Node.js · PHP · Python · Express |
+| **Bases de datos / DBs** | Supabase (pgvector) · Firebase · PostgreSQL · Redis · MySQL |
+| **IA & ML** | Gemini AI · OpenAI · scikit-learn · Ollama · Agentes Autónomos |
+| **Pagos / Payments** | Stripe Checkout · Stripe Webhooks |
+| **Comunicaciones / Comms** | Twilio Voice · WhatsApp (Baileys) · Resend · Telegram API |
+| **Auth** | Firebase Auth · JWT · WebAuthn · bcrypt · Sessions |
+| **DevOps** | Docker · Docker Compose · Vercel · Firebase Hosting |
+| **Testing** | Playwright (E2E) · Vitest (Unit) · Testing Library |
+
+---
+
+## 📊 Estadísticas / Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juan23456788977&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan23456788977&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Juan23456788977&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff&locale=es" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan23456788977&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff" height="160"/>
 </div>
 
 ---
 
-## 📫 Contacto
+## 📫 Contacto / Contact
 
-Estoy abierto a **oportunidades remotas**, colaboraciones y proyectos freelance.
+🇪🇸 Abierto a oportunidades remotas, colaboraciones y proyectos freelance.
+🌐 Open to remote opportunities, collaborations and freelance projects.
 
-- 📧 **Email:** cortezurreajuanalberto@gmail.com
-- 💼 **Portafolio completo:** [github.com/Juan23456788977/Portafolio](https://github.com/Juan23456788977/Portafolio)
+- 📧 cortezurreajuanalberto@gmail.com
+- 💼 [Portafolio completo / Full portfolio](https://github.com/Juan23456788977/Portafolio)
 
 <div align="center">
   <br/>
-  <i>"No sigo hojas de ruta. Las construyo."</i>
+  <i>🇪🇸 "No sigo hojas de ruta. Las construyo."</i><br/>
+  <i>🌐 "I don't follow roadmaps. I build them."</i>
 </div>
