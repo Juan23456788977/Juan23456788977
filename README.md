@@ -8,6 +8,7 @@
 
 <a href="mailto:cortezurreajuanalberto@gmail.com"><img src="https://img.shields.io/badge/Email-cortezurreajuanalberto%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://github.com/Juan23456788977/Portafolio"><img src="https://img.shields.io/badge/Portafolio_Completo-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="Portafolio"/></a>
+<a href="mailto:cortezurreaj@gmail.com"><img src="https://img.shields.io/badge/Email_2-cortezurreaj%40gmail.com-4285F4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email 2"/></a>
 
 </div>
 
@@ -132,6 +133,7 @@
 🌐 Open to remote opportunities, collaborations and freelance projects.
 
 - 📧 cortezurreajuanalberto@gmail.com
+- 📧 cortezurreaj@gmail.com
 - 💼 [Portafolio completo / Full portfolio](https://github.com/Juan23456788977/Portafolio)
 
 <div align="center">
@@ -139,3 +141,4 @@
   <i>🇪🇸 "No sigo hojas de ruta. Las construyo."</i><br/>
   <i>🌐 "I don't follow roadmaps. I build them."</i>
 </div>
+
