@@ -1,12 +1,12 @@
 <div align="center">
 
-<h1 style="color: #A855F7;">⚡ Full-Stack Systems Architect & AI Engineer</h1>
-<h3>Designing and scaling enterprise-grade infrastructure.</h3>
+<h1 style="color: #A855F7;">🌐 Juan Cortez — Enterprise Engineering Portfolio</h1>
+<h3>Full-Stack Systems Architect & AI Infrastructure Engineer</h3>
 
 <br/>
 
 <a href="https://github.com/Juan23456788977">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=00ff41&center=true&vCenter=true&multiline=false&width=750&height=50&lines=Building+Systems,+Not+Just+Apps.;WebSockets,+Hardware+APIs,+and+LLM+Integrations." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=00ff41&center=true&vCenter=true&multiline=false&width=750&height=50&lines=Hola,+soy+Juan+Cortez+%F0%9F%91%8B;Building+Systems,+Not+Just+Apps.;WebSockets,+Hardware+APIs,+and+LLM+Integrations." alt="Typing SVG" />
 </a>
 
 <br/>
