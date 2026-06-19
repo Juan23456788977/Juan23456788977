@@ -26,6 +26,18 @@
 
 ---
 
+### 🌟 MCP-Dock — Advanced Web Testbench for MCP / Playground Agentic
+
+> 🇪🇸 Herramienta DevTool de nivel empresarial para inspeccionar y jugar con servidores del **Model Context Protocol (MCP)**. Actúa como un proxy local `stdio-to-http` con una interfaz web en Next.js 15. Incluye un Inspector de JSON Schemas de herramientas y un Agentic Playground que simula un LLM interactuando con tus herramientas locales en tiempo real.
+ 
+> 🌐 Enterprise-grade DevTool to inspect and play with **Model Context Protocol (MCP)** servers. Acts as a local `stdio-to-http` proxy with a stunning Next.js 15 web interface. Includes a JSON Schema Inspector and an Agentic Playground that simulates an LLM interacting with your local tools in real-time.
+
+**Stack:** `Next.js 15` `React 19` `Tailwind v4` `Node.js` `Express` `@modelcontextprotocol/sdk` `Framer Motion`
+
+<a href="https://github.com/Juan23456788977/mcp-dock"><img src="https://img.shields.io/badge/Ver_Repositorio-Nivel_Google-050505?style=for-the-badge&logo=github&logoColor=white" alt="MCP-Dock"/></a>
+
+---
+
 ### 🧠 Cortan v2.0 — SaaS Multi-tenant con IA / AI Multi-tenant SaaS
 
 > 🇪🇸 Plataforma SaaS corporativa multi-tenant. Cada tenant tiene aislamiento total vía **Row Level Security en Supabase**. El módulo `system-agent` es un rol de bypass total que permite a los agentes de IA ejecutar flujos de trabajo sin restricciones, con trazabilidad en logs de auditoría. Integra **pgvector** para memoria semántica persistente en los agentes.
