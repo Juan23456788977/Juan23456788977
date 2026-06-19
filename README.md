@@ -42,6 +42,19 @@
 
 ---
 
+### 🦆 DuckyFlow — WebSerial Hardware Flasher / DuckyScript IDE
+
+> 🇪🇸 Entorno de desarrollo integrado (IDE) en el navegador para programar y flashear dispositivos USB usando **DuckyScript**. Se conecta al hardware físico directamente desde Chrome mediante la **WebSerial API**, eliminando la necesidad de instalar herramientas de consola.
+ 
+> 🌐 In-browser IDE to write and flash **DuckyScript** payloads to USB devices. Connects to physical hardware directly from Chrome using the **WebSerial API**, eliminating the need for local toolchains.
+
+**Stack:** `Next.js 16` `React 19` `Tailwind v4` `WebSerial API` `Monaco Editor`
+
+<a href="https://github.com/Juan23456788977/duckyflow"><img src="https://img.shields.io/badge/Ver_Repositorio-Nivel_Google-050505?style=for-the-badge&logo=github&logoColor=white" alt="DuckyFlow"/></a>
+<a href="https://Juan23456788977.github.io/duckyflow"><img src="https://img.shields.io/badge/Live_Demo-Online-success?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/></a>
+
+---
+
 ### 🧠 Cortan v2.0 — SaaS Multi-tenant con IA / AI Multi-tenant SaaS
 
 > 🇪🇸 Plataforma SaaS corporativa multi-tenant. Cada tenant tiene aislamiento total vía **Row Level Security en Supabase**. El módulo `system-agent` es un rol de bypass total que permite a los agentes de IA ejecutar flujos de trabajo sin restricciones, con trazabilidad en logs de auditoría. Integra **pgvector** para memoria semántica persistente en los agentes.
