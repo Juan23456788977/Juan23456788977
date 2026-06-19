@@ -1,11 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=Hola%2C+soy+Juan+Cortez+%F0%9F%91%8B+%2F+Hey%2C+I'm+Juan+Cortez;Desarrollador+Full-Stack+%2F+Full-Stack+Developer;18+años+%7C+Caracas%2C+Venezuela+%F0%9F%87%BB%F0%9F%87%AA;Construyo+SaaS%2C+IA+y+bots+%2F+I+build+SaaS%2C+AI+%26+bots" alt="Typing SVG" />
+<a href="https://github.com/Juan23456788977">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&width=750&height=90&lines=Hola%2C+soy+Juan+Cortez+%F0%9F%91%8B;Full-Stack+Developer+%7C+18+a%C3%B1os+%7C+Caracas+%F0%9F%87%BB%F0%9F%87%AA" alt="Typing SVG" />
+</a>
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-cortezurreajuanalberto%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cortezurreajuanalberto@gmail.com)
-[![Portafolio](https://img.shields.io/badge/Portafolio_Completo-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juan23456788977/Portafolio)
+<a href="mailto:cortezurreajuanalberto@gmail.com"><img src="https://img.shields.io/badge/Email-cortezurreajuanalberto%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/Juan23456788977/Portafolio"><img src="https://img.shields.io/badge/Portafolio_Completo-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="Portafolio"/></a>
 
 </div>
 
@@ -31,7 +33,7 @@
 
 **Stack:** `Next.js 16` `React 19` `Supabase + pgvector` `Firebase` `Stripe` `WebAuthn` `Twilio` `WhatsApp` `Gemini AI` `Ollama` `Three.js` `Playwright` `Docker`
 
-[![Showcase](https://img.shields.io/badge/Ver_Showcase_/_View_Showcase_(código_privado)-A855F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juan23456788977/cortan-showcase)
+<a href="https://github.com/Juan23456788977/cortan-showcase"><img src="https://img.shields.io/badge/Ver_Showcase-c%C3%B3digo_privado-A855F7?style=for-the-badge&logo=github&logoColor=white" alt="Cortan Showcase"/></a>
 
 ---
 
@@ -43,11 +45,11 @@
 
 **Stack:** `FastAPI` `Python` `Next.js` `TypeScript` `PostgreSQL` `SQLAlchemy` `Alembic` `Redis` `MinIO` `Stripe` `Docker Compose`
 
-[![Showcase](https://img.shields.io/badge/Ver_Showcase_/_View_Showcase_(código_privado)-F59E0B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juan23456788977/vecommerce-showcase)
+<a href="https://github.com/Juan23456788977/vecommerce-showcase"><img src="https://img.shields.io/badge/Ver_Showcase-c%C3%B3digo_privado-F59E0B?style=for-the-badge&logo=github&logoColor=white" alt="VECommerce Showcase"/></a>
 
 ---
 
-### 🤖 AI Email Assistant — Clasificador ML + Respuesta Automática / ML Classifier + Auto-Response
+### 🤖 AI Email Assistant — Clasificador ML + Respuesta Automática
 
 > 🇪🇸 Sistema que lee emails entrantes, los clasifica por prioridad con un **modelo entrenado con scikit-learn**, y genera respuestas con **OpenAI GPT**. Los servicios `classifier.py` y `llm_response.py` están desacoplados para poder reemplazar el LLM sin tocar la lógica de clasificación.
 
@@ -55,11 +57,11 @@
 
 **Stack:** `FastAPI` `Python` `OpenAI API` `scikit-learn` `Docker Compose`
 
-[![Showcase](https://img.shields.io/badge/Ver_Showcase_/_View_Showcase_(código_privado)-10B981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juan23456788977/ai-email-assistant)
+<a href="https://github.com/Juan23456788977/ai-email-assistant"><img src="https://img.shields.io/badge/Ver_Showcase-c%C3%B3digo_privado-10B981?style=for-the-badge&logo=github&logoColor=white" alt="AI Email Assistant"/></a>
 
 ---
 
-### 🎓 PasantConnect — Sistema de Pasantías / Internship Management System
+### 🎓 PasantConnect — Sistema de Pasantías / Internship Management
 
 > 🇪🇸 Proyecto de tesis de grado para el I.T.A.T. Sistema completo: registro de pasantes/empresas/supervisores, control de horas, chat en tiempo real, subida de fotos, dark mode y panel admin. Contraseñas con **bcrypt** (`$2y$10$`), roles via `enum` en MySQL validados en cada endpoint.
 
@@ -67,7 +69,7 @@
 
 **Stack:** `PHP 7.3` `MySQL` `Vanilla JavaScript ES6+` `CSS3` `bcrypt` `AJAX` `Sessions`
 
-[![Código / Code](https://img.shields.io/badge/Ver_Código_/_View_Code_(público)-3ECF8E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Juan23456788977/PasantConnect)
+<a href="https://github.com/Juan23456788977/PasantConnect"><img src="https://img.shields.io/badge/Ver_C%C3%B3digo-p%C3%BAblico-3ECF8E?style=for-the-badge&logo=github&logoColor=white" alt="PasantConnect"/></a>
 
 ---
 
@@ -80,6 +82,18 @@
 **Stack:** `Python` `Binance API` `WebSockets` `asyncio` `Telegram Bot API`
 
 *🔒 Código privado por acuerdo con clientes / Private by client agreement*
+
+---
+
+### 🎓 Akdemia Landing — Página de Captación / Lead Capture Page
+
+> 🇪🇸 Landing page de alto rendimiento para Akdemia EdTech (500+ colegios). Autocontenida en un solo HTML de 213KB. Se conecta a **Google Sheets vía Apps Script** para guardar leads en tiempo real y disparar notificaciones por email.
+
+> 🌐 High-conversion landing page for Akdemia EdTech (500+ schools). Self-contained in a single 213KB HTML file. Connects to **Google Sheets via Apps Script** for real-time lead capture and email notifications.
+
+**Stack:** `HTML5` `CSS3` `Vanilla JS` `Google Apps Script` `Google Sheets API`
+
+<a href="https://github.com/Juan23456788977/akdemia-landing"><img src="https://img.shields.io/badge/Ver_Showcase-6366F1?style=for-the-badge&logo=github&logoColor=white" alt="Akdemia Landing"/></a>
 
 ---
 
@@ -102,8 +116,12 @@
 ## 📊 Estadísticas / Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Juan23456788977&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff&locale=es" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan23456788977&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff" height="160"/>
+  <a href="https://github.com/Juan23456788977">
+    <img src="https://github-readme-stats.vercel.app/api?username=Juan23456788977&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=ffffff&locale=es" height="160" alt="GitHub Stats"/>
+  </a>
+  <a href="https://github.com/Juan23456788977">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan23456788977&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=ffffff" height="160" alt="Top Languages"/>
+  </a>
 </div>
 
 ---
