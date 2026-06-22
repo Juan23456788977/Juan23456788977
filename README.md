@@ -89,6 +89,8 @@
 
 <a href="https://github.com/Juan23456788977/akdemia-playwright-e2e"><img src="https://img.shields.io/badge/Ver_Repositorio-Nivel_Google-050505?style=for-the-badge&logo=github&logoColor=white" alt="Akdemia E2E"/></a>
 
+- 🚀 **[Unlimited Claude AI](https://github.com/Juan23456788977/unlimited-claude-AI)**\n  Implementación de acceso ilimitado a Claude AI con técnicas de optimización.
+
 ---
 
 ### 🧠 Cortan v2.0 — SaaS Multi-tenant con IA / AI Multi-tenant SaaS
