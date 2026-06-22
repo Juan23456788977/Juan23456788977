@@ -89,6 +89,8 @@
 
 <a href="https://github.com/Juan23456788977/akdemia-playwright-e2e"><img src="https://img.shields.io/badge/Ver_Repositorio-Nivel_Google-050505?style=for-the-badge&logo=github&logoColor=white" alt="Akdemia E2E"/></a>
 
+- 🚀 **[ERP Data Automation & AI TARIC](https://github.com/Juan23456788977/erp-data-automation)**\n  Ingeniería de datos, automatización de Odoo ERP y clasificación aduanera TARIC usando NLP en Python.
+
 - 🚀 **[Unlimited Claude AI](https://github.com/Juan23456788977/unlimited-claude-AI)**\n  Implementación de acceso ilimitado a Claude AI con técnicas de optimización.
 
 ---
