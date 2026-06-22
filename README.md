@@ -93,6 +93,12 @@
 
 - 🚀 **[Unlimited Claude AI](https://github.com/Juan23456788977/unlimited-claude-AI)**\n  Implementación de acceso ilimitado a Claude AI con técnicas de optimización.
 
+- 🚀 **[Nexus AI Backend Architecture](https://github.com/Juan23456788977/nexus-ai-backend)**\n  Backend Python empresarial para orquestación de LLMs multimodales, demostrando arquitecturas limpias y modularidad.
+
+- 🚀 **[SaaS Onboarding Dashboard](https://github.com/Juan23456788977/saas-onboarding-dashboard)**\n  Frontend SPA de onboarding construido con Vite, con autenticación segura y bases de datos en tiempo real (Firebase/Firestore).
+
+- 🚀 **[WhatsApp AI Microservice](https://github.com/Juan23456788977/whatsapp-ai-microservice)**\n  Microservicio Node.js robusto para integrar clientes de WhatsApp Web con flujos conversacionales de Inteligencia Artificial.
+
 ---
 
 ### 🧠 Cortan v2.0 — SaaS Multi-tenant con IA / AI Multi-tenant SaaS
