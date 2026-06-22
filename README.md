@@ -89,15 +89,63 @@
 
 <a href="https://github.com/Juan23456788977/akdemia-playwright-e2e"><img src="https://img.shields.io/badge/Ver_Repositorio-Nivel_Google-050505?style=for-the-badge&logo=github&logoColor=white" alt="Akdemia E2E"/></a>
 
-- 🚀 **[ERP Data Automation & AI TARIC](https://github.com/Juan23456788977/erp-data-automation)**\n  Ingeniería de datos, automatización de Odoo ERP y clasificación aduanera TARIC usando NLP en Python.
+### 🌟 ERP Data Automation & AI TARIC
 
-- 🚀 **[Unlimited Claude AI](https://github.com/Juan23456788977/unlimited-claude-AI)**\n  Implementación de acceso ilimitado a Claude AI con técnicas de optimización.
+> 🇪🇸 Ingeniería de datos, automatización de Odoo ERP y clasificación aduanera TARIC usando NLP en Python.
+ 
+> 🌐 Data engineering, Odoo ERP automation, and TARIC customs classification using Python NLP.
 
-- 🚀 **[Nexus AI Backend Architecture](https://github.com/Juan23456788977/nexus-ai-backend)**\n  Backend Python empresarial para orquestación de LLMs multimodales, demostrando arquitecturas limpias y modularidad.
+**Stack:** `Python` `Odoo XML-RPC` `NLP` `Pandas` `GitHub Actions`
 
-- 🚀 **[SaaS Onboarding Dashboard](https://github.com/Juan23456788977/saas-onboarding-dashboard)**\n  Frontend SPA de onboarding construido con Vite, con autenticación segura y bases de datos en tiempo real (Firebase/Firestore).
+<a href="https://github.com/Juan23456788977/erp-data-automation"><img src="https://img.shields.io/badge/Ver_Repositorio-Nivel_Google-050505?style=for-the-badge&logo=github&logoColor=white" alt="ERP Data Automation"/></a>
 
-- 🚀 **[WhatsApp AI Microservice](https://github.com/Juan23456788977/whatsapp-ai-microservice)**\n  Microservicio Node.js robusto para integrar clientes de WhatsApp Web con flujos conversacionales de Inteligencia Artificial.
+---
+
+### 🌟 Unlimited Claude AI
+
+> 🇪🇸 Implementación de acceso ilimitado a Claude AI con técnicas de optimización de contexto y proxy de sesión.
+ 
+> 🌐 Unlimited Claude AI access implementation using context optimization and session proxying.
+
+**Stack:** `Python` `Claude Code` `Reverse Proxy` `Docker`
+
+<a href="https://github.com/Juan23456788977/unlimited-claude-AI"><img src="https://img.shields.io/badge/Ver_Repositorio-Nivel_Google-050505?style=for-the-badge&logo=github&logoColor=white" alt="Unlimited Claude AI"/></a>
+
+---
+
+### 🌟 Nexus AI Backend Architecture
+
+> 🇪🇸 Backend Python empresarial para orquestación de LLMs multimodales, demostrando arquitecturas limpias y modularidad.
+ 
+> 🌐 Enterprise Python backend for multi-modal LLM orchestration, demonstrating clean architectures and modularity.
+
+**Stack:** `Python 3.12` `FastAPI` `uv` `Anthropic API` `Docker`
+
+<a href="https://github.com/Juan23456788977/nexus-ai-backend"><img src="https://img.shields.io/badge/Ver_Repositorio-Nivel_Google-050505?style=for-the-badge&logo=github&logoColor=white" alt="Nexus AI Backend"/></a>
+
+---
+
+### 🌟 SaaS Onboarding Dashboard
+
+> 🇪🇸 Frontend SPA de onboarding construido con Vite, con autenticación segura y bases de datos en tiempo real (Firebase/Firestore).
+ 
+> 🌐 Onboarding SPA frontend built with Vite, featuring secure authentication and real-time databases (Firebase/Firestore).
+
+**Stack:** `Vite` `React` `Tailwind CSS` `Firebase Auth` `Firestore`
+
+<a href="https://github.com/Juan23456788977/saas-onboarding-dashboard"><img src="https://img.shields.io/badge/Ver_Repositorio-Nivel_Google-050505?style=for-the-badge&logo=github&logoColor=white" alt="SaaS Onboarding Dashboard"/></a>
+
+---
+
+### 🌟 WhatsApp AI Microservice
+
+> 🇪🇸 Microservicio Node.js robusto para integrar clientes de WhatsApp Web con flujos conversacionales de Inteligencia Artificial.
+ 
+> 🌐 Robust Node.js microservice to integrate WhatsApp Web clients with conversational Artificial Intelligence flows.
+
+**Stack:** `Node.js` `Express` `whatsapp-web.js` `Docker`
+
+<a href="https://github.com/Juan23456788977/whatsapp-ai-microservice"><img src="https://img.shields.io/badge/Ver_Repositorio-Nivel_Google-050505?style=for-the-badge&logo=github&logoColor=white" alt="WhatsApp AI Microservice"/></a>
 
 ---
 
