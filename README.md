@@ -55,6 +55,42 @@
 
 ---
 
+### 🌐 Enterprise MCP Suite — Model Context Protocol
+
+> 🇪🇸 Suite de servidores **Model Context Protocol (MCP)** listos para producción. Conecta Agentes Autónomos e IAs con infraestructura empresarial legacy: **Zimbra SOAP API**, **Slack**, **Google Drive** y la base de datos regulatoria europea **EUDAMED**. Diseñados para ejecutar LLMs en entornos corporativos con strictos requerimientos de seguridad y auditoría.
+ 
+> 🌐 Production-ready **Model Context Protocol (MCP)** server suite. Connects Autonomous Agents and AIs to legacy enterprise infrastructure: **Zimbra SOAP API**, **Slack**, **Google Drive**, and the **EUDAMED** European regulatory database. Designed for running LLMs in corporate environments with strict security and auditing requirements.
+
+**Stack:** `Node.js` `Python` `Anthropic SDK` `@modelcontextprotocol/sdk` `FastMCP` `SOAP`
+
+<a href="https://github.com/Juan23456788977/mcp-enterprise-suite"><img src="https://img.shields.io/badge/Ver_Repositorio-Nivel_Google-050505?style=for-the-badge&logo=github&logoColor=white" alt="MCP Suite"/></a>
+
+---
+
+### 🔐 YiChip RF Reaper — Cybersecurity & Hardware Reverse Engineering
+
+> 🇪🇸 El primer toolkit Open Source para ingeniería inversa y análisis de vulnerabilidades en dongles USB **YICHIP** (VID `0x3151`). Descubrimiento de canales HID vendor-specific ocultos, sniffing de endpoints de interrupción de radiofrecuencia y fuzzing de comandos USB de bajo nivel.
+ 
+> 🌐 The first Open Source toolkit for reverse engineering and vulnerability analysis of **YICHIP** USB dongles (VID `0x3151`). Discovered hidden vendor-specific HID channels, RF interrupt endpoint sniffing, and low-level USB command fuzzing.
+
+**Stack:** `Python` `pyusb` `hidraw` `Linux Kernel` `Hardware Reverse Engineering`
+
+<a href="https://github.com/Juan23456788977/yichip-rf-reaper"><img src="https://img.shields.io/badge/Ver_Repositorio-Nivel_Google-050505?style=for-the-badge&logo=github&logoColor=white" alt="YiChip RF Reaper"/></a>
+
+---
+
+### 🧪 Akdemia QA Automation — Enterprise Playwright E2E
+
+> 🇪🇸 Framework automatizado de calidad **End-to-End (E2E)** construido para una plataforma EdTech con más de 500 colegios. Valida dinámicamente matrices complejas de Control de Acceso Basado en Roles (RBAC), flujos de pago (Stripe) y lógica de generación de facturas con aislamiento total entre tenants.
+ 
+> 🌐 Automated **End-to-End (E2E)** quality framework built for an EdTech platform serving 500+ schools. Dynamically validates complex Role-Based Access Control (RBAC) matrices, payment flows (Stripe), and invoice generation logic with strict cross-tenant isolation.
+
+**Stack:** `Python` `Playwright` `pytest` `E2E Testing` `CI/CD Ready`
+
+<a href="https://github.com/Juan23456788977/akdemia-playwright-e2e"><img src="https://img.shields.io/badge/Ver_Repositorio-Nivel_Google-050505?style=for-the-badge&logo=github&logoColor=white" alt="Akdemia E2E"/></a>
+
+---
+
 ### 🧠 Cortan v2.0 — SaaS Multi-tenant con IA / AI Multi-tenant SaaS
 
 > 🇪🇸 Plataforma SaaS corporativa multi-tenant. Cada tenant tiene aislamiento total vía **Row Level Security en Supabase**. El módulo `system-agent` es un rol de bypass total que permite a los agentes de IA ejecutar flujos de trabajo sin restricciones, con trazabilidad en logs de auditoría. Integra **pgvector** para memoria semántica persistente en los agentes.
